@@ -1,6 +1,6 @@
 # Assignment
 
-This project is used React with typescript and matarial ui design.
+This project is used React, typescript and matarial ui design.
 
 
 ## Installation
